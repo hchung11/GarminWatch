@@ -1,0 +1,7 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+     <bitmap id="Logo" filename="49erLogo.png" />
+     <bitmap id="step" filename="step1.png" />
+     <bitmap id="Calories" filename="calories.png" />
+     
+</drawables>
